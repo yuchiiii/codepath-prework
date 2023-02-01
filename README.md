@@ -1,6 +1,7 @@
 # codepath-prework
 
-## App Description: This is an app that allows you to submit your personal information and introduce yourself to others!
+## App Description: 
+This is an app that allows you to submit your personal information and introduce yourself to others!
 
 ## App Walk-though
 TODO:// Add the URL to your animated app walk-though gif in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
